@@ -1,10 +1,3 @@
-#Script Name: TwitterCrawling.py
-#Location: /Users/hoyeolkim/Box/GitHub/Python_Script/Programs/TwitterCrawling.py
-#Created by Hoyeol Kim
-#Creation Date: 05/25/2019
-#Purpose: Twitter Crawling with Python
-#Last Modified: 07/26/2019
-
 from bs4 import BeautifulSoup
 import requests
 from selenium import webdriver
